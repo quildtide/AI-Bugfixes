@@ -803,7 +803,7 @@
     "UnitCannon": {
       "units": [
         {
-          "unit_types": "Structure & Artillery & Factory",
+          "unit_types": "Structure & Artillery & Factory - Basic",
           "min_count": 1,
           "max_count": -1
         }
